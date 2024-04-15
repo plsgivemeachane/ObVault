@@ -1,0 +1,1 @@
+1. Determine the base cases or smallest subproblems that can be solved directly without further recursion. These are essential to ensure the termination of the recursive process.

@@ -1,0 +1,11 @@
+- MUST FINISH ALL TODAYS WORK 
+	- (Work can be one or more _cannot be zero_)
+	- If you cannot finish TODAYS WORK.. NO FAP FOR 3 DAYS!!!
+	- And also added the work to the queue tomorow
+- CAN HAVE SOME REST DAY (RECOMMEND 2 DAYS)
+	- SUNDAY (FULL) (_Just resting_)
+	- SATURDAY (FULL) (_Im too lazy at weekend (can be change later)_)
+- FAP WITH P: 5 DAYS STREAK
+- FAP WITH H: 4 DAYS STREAK
+- FAP WITH N: 3 DAYS STREAK
+- IF ANY FAP IS INVALID PLEASE WAIT FOR 2 x FAPS DAY BEFORE TRYHARD AGAIN

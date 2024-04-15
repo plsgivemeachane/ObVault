@@ -1,0 +1,2 @@
+
+1. Practice solving dynamic programming problems from various sources and understand different approaches used in those solutions. Learning from examples is crucial in mastering dynamic programming techniques.

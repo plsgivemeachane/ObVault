@@ -1,0 +1,11 @@
+{
+  "accentColor": "#06c0fe",
+  "baseFontSize": 24,
+  "cssTheme": "Vanilla AMOLED",
+  "enabledCssSnippets": [
+    "Iterative Rainbow Folder Titles",
+    "DarkPDF",
+    "Image-zoom"
+  ],
+  "theme": "obsidian"
+}

@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FiAlertTriangle",
+      "FiAlignJustify",
+      "FiFile",
+      "FiAlertCircle",
+      "FiActivity"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Learning programing": "FiActivity",
+  "Learning programing/Dynamic Programing": "FasPager",
+  "Learning programing/Graph": "FiAlertCircle",
+  "Learning programing/CTDL": "FasPager",
+  "Web dev": "FasPager",
+  "Web dev/WaterHype": "RaWaterDrop",
+  "Web dev/WaterHype/Changed": "FiAlignCenter",
+  "Web dev/WaterHype/process": "SiTask",
+  "Web dev/WaterHype/Example": "FasBox",
+  "Web dev/WaterHype/A minimalistic website framework that aim for best score in lighthouse.md": "SiPowerpages",
+  "Web dev/WaterHype/process/Hydration process.md": "RaWaterDrop",
+  "Web dev/WaterHype/process/Repopulating.md": "RiWaterFlashFill",
+  "Web dev/WaterHype/process/Caching.md": "FasFloppyDisk",
+  "Web dev/WaterHype/process/Poppulating process.md": "FasWater",
+  "Web dev/WaterHype/process/The Water language.md": "FasGlassWater",
+  "Learning programing/Study journey": "FiAlignCenter",
+  "Attachments": "FiFile",
+  "Attachments/xu ly xau nang cao.pdf": "FiAlignJustify",
+  "Learning programing/Study journey/11.4/VERY IMPORTANT WORK": "FiAlertTriangle",
+  "Learning programing/Study journey/RULE!!!.md": "FiAlertCircle"
+}

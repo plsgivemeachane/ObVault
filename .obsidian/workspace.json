@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "5c167665b208afde",
+    "type": "split",
+    "children": [
+      {
+        "id": "25b7b7ffab4a8837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1eecfac6ef2a77d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning programing/Study journey/15.4/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5064ca6b81b95fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning programing/Study journey/15.4/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "585ed05adcf5acdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d04c88d512075b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d599c0ad9c56c70e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c56f313f39fb609",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee87cb71ce3bc554",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "a9b87841605f2f83",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a19035fb8616a21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f2d31f961a81709",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29969a9d5bc501e1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1109c96d61fc981c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning programing/Study journey/15.4/TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "141fc3032073bda6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning programing/Study journey/15.4/TODO.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d0de881d9af5e2dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac404ad9cdb191a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning programing/Study journey/15.4/TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "29969a9d5bc501e1",
+  "lastOpenFiles": [
+    "Learning programing/Study journey/15.4/Links.md",
+    "Learning programing/Study journey/15.4/129. Sum Root to Leaf Numbers.md",
+    "Learning programing/Study journey/15.4/TODO.md",
+    "Learning programing/Study journey/15.4/Fuk pallin.md",
+    "Attachments/Pasted image 20240415064518.png",
+    "Learning programing/Study journey/12.4/Advance String manipulation (P2).md",
+    "Learning programing/Study journey/11.4/VERY IMPORTANT WORK/Advance string manipulation.md",
+    "Learning programing/Study journey/11.4/VERY IMPORTANT WORK/Hashing function.md",
+    "Learning programing/Study journey/11.4/VERY IMPORTANT WORK/Drawing 2024-04-11 22.31.39.excalidraw.md",
+    "Learning programing/Study journey/12.4/Elongated Matrix.md",
+    "Learning programing/Study journey/12.4/Links.md",
+    "Untitled.md",
+    "Learning programing/Study journey/15.4",
+    "Learning programing/Study journey/15.4.md",
+    "Learning programing/Study journey/RULE!!!.md",
+    "Learning programing/Study journey/12.4/Drawing 2024-04-12 22.00.30.excalidraw.md",
+    "Attachments/Pasted Image 20240413004813_082.png",
+    "Attachments/Pasted Image 20240413004443_384.png",
+    "Attachments/Pasted Image 20240413004428_382.png",
+    "Attachments/Pasted Image 20240413004413_364.png",
+    "Attachments/Pasted Image 20240413001822_352.png",
+    "Attachments/Pasted Image 20240412231930_517.png",
+    "Attachments/Pasted Image 20240412231915_509.png",
+    "Attachments/Pasted Image 20240412231900_497.png",
+    "Attachments/Pasted Image 20240412231815_250.png",
+    "Learning programing/Study journey/11.4/Zipping technique.md",
+    "Learning programing/Study journey/11.4/Links.md",
+    "Learning programing/Study journey/12.4",
+    "2024-04-12.md",
+    "Learning programing/Study journey/11.4/VERY IMPORTANT WORK/Drawing 2024-04-11 21.27.26.excalidraw.md",
+    "2024-04-11.md",
+    "Attachments/xu ly xau nang cao.pdf",
+    "Attachments/TIN38-_Tổ tiên chung gần nhất_-LCA.pdf",
+    "Attachments/IT và BIT.pdf",
+    "Learning programing/Study journey/11.4/Interval Tree.md",
+    "Learning programing/Study journey/11.4/VERY IMPORTANT WORK",
+    "Learning programing/Study journey/11.4/BIT.md",
+    "().md",
+    "Attachments",
+    "Learning programing/Study journey/11.4",
+    "Learning programing/Dynamic Programing/problems/Kefa and First stetps.md",
+    "Learning programing/Study journey",
+    "Learning programing/Dynamic Programing/problems/Egg Drop With 2 Eggs and N Floors.md",
+    "Web dev/WaterHype/process/Hydration process.md",
+    "Learning programing/Graph/problems/Bộ ba cao thủ.md",
+    "Learning programing/Dynamic Programing/problems/locphuhop.canvas",
+    "Learning programing/CTDL/Segment tree",
+    "Untitled.canvas"
+  ]
+}
